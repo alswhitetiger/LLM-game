@@ -50,3 +50,13 @@
     streamlit run game2.py
     ```
     터미널에 나타나는 주소를 웹 브라우저에서 열어 게임을 시작합니다.
+
+    ---
+6. **게임플레이화면**
+   <img width="1908" height="753" alt="스크린샷 2025-09-08 092125" src="https://github.com/user-attachments/assets/b5b6c330-5636-4eb5-b6c2-8f7543140d33" />
+   
+<img width="1908" height="753" alt="스크린샷 2025-09-08 092254" src="https://github.com/user-attachments/assets/a2a89cd9-b776-451e-81e6-482c439300d2" />
+
+<img width="1908" height="753" alt="스크린샷 2025-09-04 164723" src="https://github.com/user-attachments/assets/7e8ceb26-2312-43f2-8c89-88f889d98b34" />
+
+<img width="1908" height="753" alt="스크린샷 2025-09-04 163253" src="https://github.com/user-attachments/assets/edf9ef0b-03c9-4e50-9622-966f1663db30" />
